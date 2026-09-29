@@ -1,15 +1,13 @@
-Weather App
+# Weather App 
 
 A simple weather application built with HTML, CSS, and JavaScript.
 
-Technologies
+## Technologies
 
-HTML
+* HTML
+* CSS
+* JavaScript
 
-CSS
-
-JavaScript
-
-Author
+## Author
 
 Amir Karimi
